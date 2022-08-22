@@ -1,0 +1,54 @@
+.btn1 {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  background: #34d984;
+  padding: 11px 11px 10px 11px;
+  text-decoration: none;
+}
+
+.btn1:hover {
+  background: #0ced41;
+  text-decoration: none;
+}
+
+.btn2 {
+  background: #e61c9c;
+  background-image: -webkit-linear-gradient(top, #e61c9c, #ededed);
+  background-image: -moz-linear-gradient(top, #e61c9c, #ededed);
+  background-image: -ms-linear-gradient(top, #e61c9c, #ededed);
+  background-image: -o-linear-gradient(top, #e61c9c, #ededed);
+  background-image: linear-gradient(to bottom, #e61c9c, #ededed);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  padding: 11px 11px 10px 11px;
+  text-decoration: none;
+}
+
+.btn2:hover {
+  background: #db157c;
+  text-decoration: none;
+}
+.btn3 {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  background: #4f87db;
+  padding: 11px 11px 10px 11px;
+  text-decoration: none;
+}
+
+.btn3:hover {
+  background: #162ff0;
+  text-decoration: none;
+}
